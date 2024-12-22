@@ -1,3 +1,4 @@
+# multi-fault
 Given an input KPI vector (2-1), we want to know the current network condition. In other words, 
 the task is to diagnose the occurrence of ERP, ED and EU. As multiple faults may occur 
 simultaneously, e.g., ERP+ED and ERP+EU, the diagnosis problem is treated as a multi-label classification problem2. In particular, we use 1 and 0 to indicate the occurrence and absence of 
